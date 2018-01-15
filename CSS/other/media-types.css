@@ -1,0 +1,18 @@
+
+@media screen {
+    a {
+        color: cyan;
+        text-decoration: underline;
+    }
+}
+
+@media print {
+    a::after {
+        content: '("attr(href)")';
+    }
+}
+
+
+
+
+

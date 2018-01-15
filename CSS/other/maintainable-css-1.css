@@ -1,0 +1,20 @@
+
+.blog-post {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid grey;
+}
+
+.blog-post h2 {
+    /* If h2 is changed to a h3, these styles will
+    no longer apply */
+
+    margin-bottom: 1em;
+    font-size: 2em;
+    color: black;
+}
+
+
+
+
+
